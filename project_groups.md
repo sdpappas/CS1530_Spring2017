@@ -45,6 +45,6 @@ _We don't know what we're doing!_
 
 ## Pessimistic estimator
 
-"You know what the problem with rose colored glass is? When you're wearing them you can never see the red flags."
+"You know what is the problem with rose colored glasses? When you're wearing them you can never see the red flags."
   
   *Stephen Pappas
